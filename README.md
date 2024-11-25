@@ -1,4 +1,4 @@
-# x-to-day-one-converter
+# X/Twitter to Day One Converter
 Add your Tweets to [Day One](https://dayoneapp.com)! The converter will create a Day One-compatible ZIP file that you can import into your Day One journal. Each tweet will become a journal entry with the original timestamp, text, tags, and any attached media.
 
 Requires python 3.
